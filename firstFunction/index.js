@@ -6,5 +6,5 @@ module.exports = async function (context, req) {
             body: "Hello " + (req.query.name || req.body.name)
         };
 
-   
+   // sick
 };
